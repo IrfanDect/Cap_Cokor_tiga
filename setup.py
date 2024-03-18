@@ -7,7 +7,7 @@ setuptools.setup(
         version="1.1.4",
         description="cap cokor tiga adalah minuman paling goblog di dunia",
         long_description=pathlib.Path("README.md").read_text(),
-        long_description_content_type="text/markdownx",
+        long_description_content_type="text/markdown",
         url="https://github.com/IrfanDect/Cap_Cokor_tiga",
         author="bsbdrack",
         author_email="bsbdrack@gmail.com",

@@ -6,7 +6,7 @@ Home-page: https://github.com/IrfanDect/Cap_Cokor_tiga
 Author: bsbdrack
 Author-email: bsbdrack@gmail.com
 License: MIT
-Description-Content-Type: text/markdownx
+Description-Content-Type: text/markdown
 Requires-Dist: baso-kontol
 Provides-Extra: excel
 Requires-Dist: openpyxl; extra == "excel"
