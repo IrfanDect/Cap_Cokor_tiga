@@ -1,0 +1,3 @@
+[console_script]
+CapCokor_tiga = CapCokor_tiga.cli:main
+
